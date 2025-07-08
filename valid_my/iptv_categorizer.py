@@ -1,67 +1,41 @@
-import os
-import re
+import os 
+import re 
+from channel_dict 
+import CHANNEL_OVERRIDES, region_map, type_map, language_from_filename
 
-def match_category(name, mapping, default='其他'):
-    for key in mapping:
-        if key.lower() in name.lower():
-            return mapping[key]
-    return default
+def match_category(name, mapping, default='其他'): for key in mapping: if key.lower() in name.lower(): return mapping[key] return default
 
-# ====== 分类关键词字典 ======
-language_from_filename = {
-    '中文': '中文',
-    '英文': '英文',
-    '印地语': '印地语',
-    '印尼语': '印尼语'
-}
+base_path = os.path.dirname(file) output_file = os.path.join(base_path, 'iptv_all.m3u') unclassified_file = os.path.join(base_path, 'unclassified.txt')
 
-region_map = {
-    'CCTV': '中国大陆', '凤凰': '香港', '中天': '台湾',
-    'Astro': '马来西亚', 'TVB': '香港', 'Channel 8': '新加坡',
-    'BBC': '英国', 'CNN': '美国', 'HBO': '美国'
-}
+output_lines = ['#EXTM3U\n'] unclassified = []
 
-type_map = {
-    '新闻': '新闻', 'News': '新闻', 'CCTV-13': '新闻',
-    '娱乐': '娱乐', 'Variety': '娱乐', 'HBO': '电影',
-    '体育': '体育', 'ESPN': '体育',
-    '儿童': '儿童', 'Cartoon': '儿童', 'Kids': '儿童',
-    '音乐': '音乐', 'Music': '音乐',
-    '宗教': '宗教', 'Islam': '宗教',
-    '教育': '教育', 'Discovery': '教育'
-}
+for file in os.listdir(base_path): if file.endswith('_valid.m3u'): language_key = file.replace('_valid.m3u', '') language = language_from_filename.get(language_key, '未知语言')
 
-base_path = os.path.dirname(__file__)
-output_file = os.path.join(base_path, 'iptv_all.m3u')
+with open(os.path.join(base_path, file), 'r', encoding='utf-8') as f:
+        lines = f.readlines()
 
-output_lines = ['#EXTM3U\n']
+    for i in range(len(lines)):
+        if lines[i].startswith('#EXTINF'):
+            extinf = lines[i].strip()
+            url = lines[i + 1].strip() if i + 1 < len(lines) else ''
 
-# 遍历 valid_my 目录下的所有 *_valid.m3u 文件
-for file in os.listdir(base_path):
-    if file.endswith('_valid.m3u'):
-        language_key = file.replace('_valid.m3u', '')
-        language = language_from_filename.get(language_key, '未知语言')
+            match = re.search(r',(.+)', extinf)
+            channel_name = match.group(1).strip() if match else '未知频道'
 
-        with open(os.path.join(base_path, file), 'r', encoding='utf-8') as f:
-            lines = f.readlines()
-
-        for i in range(len(lines)):
-            if lines[i].startswith('#EXTINF'):
-                extinf = lines[i].strip()
-                url = lines[i + 1].strip() if i + 1 < len(lines) else ''
-
-                match = re.search(r',(.+)', extinf)
-                channel_name = match.group(1).strip() if match else '未知频道'
-
+            if channel_name in CHANNEL_OVERRIDES:
+                region, category = CHANNEL_OVERRIDES[channel_name]
+            else:
                 region = match_category(channel_name, region_map, '其他地区')
                 category = match_category(channel_name, type_map, '其他')
+                if region == '其他地区' or category == '其他':
+                    unclassified.append(f'{language}\t{channel_name}')
 
-                new_extinf = f'#EXTINF:-1 group-title="{language} / {region} / {category}", {channel_name}'
-                output_lines.append(new_extinf + '\n')
-                output_lines.append(url + '\n')
+            new_extinf = f'#EXTINF:-1 group-title="{language} / {region} / {category}", {channel_name}'
+            output_lines.append(new_extinf + '\n')
+            output_lines.append(url + '\n')
 
-# 写入合并输出文件
-with open(output_file, 'w', encoding='utf-8') as f:
-    f.writelines(output_lines)
+with open(output_file, 'w', encoding='utf-8') as f: f.writelines(output_lines)
 
-print(f'✅ 成功生成：{output_file}，共 {len(output_lines)//2} 个频道')
+with open(unclassified_file, 'w', encoding='utf-8') as f: f.write('\n'.join(unclassified))
+
+print(f'✅ 生成 {output_file} 成功，共 {len(output_lines)//2} 个频道') print(f'⚠️ 未分类频道写入 {unclassified_file}，共 {len(unclassified)} 个')
