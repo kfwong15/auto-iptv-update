@@ -53,7 +53,7 @@ https://5bf7b725107e5.streamlock.net/kstv/kstv/playlist.m3u8
 https://lingkartv.my.id/hls/lingkartv.m3u8
 #EXTINF:-1 group-title="印尼语 / 其他地区 / 其他", Magna Channel (1080p) [Not 24/7]
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
-#EXTINF:-1 group-title="印尼语 / 印尼 / 其他", Metro Globe Network (1080p) [Not 24/7]
+#EXTINF:-1 group-title="印尼语 / 其他地区 / 其他", Metro Globe Network (1080p) [Not 24/7]
 https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 #EXTINF:-1 group-title="印尼语 / 其他地区 / 其他", MGS TV (720p) [Not 24/7]
 https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv.m3u8
@@ -69,9 +69,9 @@ https://saktitv.siar.us/saktitv/live/playlist.m3u8
 https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
 #EXTINF:-1 group-title="印尼语 / 其他地区 / 其他", Semarang TV (720p)
 http://116.254.112.74/hls/cakralive.m3u8
-#EXTINF:-1 group-title="印尼语 / 印尼 / 娱乐", Trans7 (720p)
+#EXTINF:-1 group-title="印尼语 / 其他地区 / 其他", Trans7 (720p)
 https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
-#EXTINF:-1 group-title="印尼语 / 印尼 / 娱乐", Trans TV (720p)
+#EXTINF:-1 group-title="印尼语 / 其他地区 / 其他", Trans TV (720p)
 https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 #EXTINF:-1 group-title="印尼语 / 其他地区 / 其他", TV9 Nusantara (720p)
 https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
@@ -81,59 +81,59 @@ https://e.siar.us/live/tvmu.m3u8
 https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
 #EXTINF:-1 group-title="印尼语 / 其他地区 / 其他", TVR Parlemen (720p) [Not 24/7]
 http://103.18.181.69:1935/golive/livestream/playlist.m3u8
-#EXTINF:-1 group-title="印尼语 / 印尼 / 宗教", TVRI Aceh (720p)
+#EXTINF:-1 group-title="印尼语 / 其他地区 / 其他", TVRI Aceh (720p)
 https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh.m3u8
-#EXTINF:-1 group-title="印尼语 / 印尼 / 宗教", TVRI Bali (480p)
+#EXTINF:-1 group-title="印尼语 / 其他地区 / 其他", TVRI Bali (480p)
 https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali.m3u8
-#EXTINF:-1 group-title="印尼语 / 印尼 / 宗教", TVRI Bangka Belitung (480p)
+#EXTINF:-1 group-title="印尼语 / 其他地区 / 其他", TVRI Bangka Belitung (480p)
 https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel.m3u8
-#EXTINF:-1 group-title="印尼语 / 印尼 / 宗教", TVRI Bengkulu (480p)
+#EXTINF:-1 group-title="印尼语 / 其他地区 / 其他", TVRI Bengkulu (480p)
 https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu.m3u8
-#EXTINF:-1 group-title="印尼语 / 印尼 / 宗教", TVRI Gorontalo (480p)
+#EXTINF:-1 group-title="印尼语 / 其他地区 / 其他", TVRI Gorontalo (480p)
 https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hls/Gorontalo.m3u8
-#EXTINF:-1 group-title="印尼语 / 印尼 / 宗教", TVRI Jambi (720p) [Not 24/7]
+#EXTINF:-1 group-title="印尼语 / 其他地区 / 其他", TVRI Jambi (720p) [Not 24/7]
 https://ott-balancer.tvri.go.id/live/eds/Jambi/hls/Jambi.m3u8
-#EXTINF:-1 group-title="印尼语 / 印尼 / 宗教", TVRI Jawa Barat (480p)
+#EXTINF:-1 group-title="印尼语 / 其他地区 / 其他", TVRI Jawa Barat (480p)
 https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8
-#EXTINF:-1 group-title="印尼语 / 印尼 / 宗教", TVRI Jawa Tengah (720p)
+#EXTINF:-1 group-title="印尼语 / 其他地区 / 其他", TVRI Jawa Tengah (720p)
 https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8
-#EXTINF:-1 group-title="印尼语 / 印尼 / 宗教", TVRI Jawa Timur (720p)
+#EXTINF:-1 group-title="印尼语 / 其他地区 / 其他", TVRI Jawa Timur (720p)
 https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8
-#EXTINF:-1 group-title="印尼语 / 印尼 / 宗教", TVRI Kalimantan Barat (480p)
+#EXTINF:-1 group-title="印尼语 / 其他地区 / 其他", TVRI Kalimantan Barat (480p)
 https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar.m3u8
-#EXTINF:-1 group-title="印尼语 / 印尼 / 宗教", TVRI Kalimantan Selatan (720p)
+#EXTINF:-1 group-title="印尼语 / 其他地区 / 其他", TVRI Kalimantan Selatan (720p)
 https://ott-balancer.tvri.go.id/live/eds/Kalsel/hls/Kalsel.m3u8
-#EXTINF:-1 group-title="印尼语 / 印尼 / 宗教", TVRI Kalimantan Tengah (480p)
+#EXTINF:-1 group-title="印尼语 / 其他地区 / 其他", TVRI Kalimantan Tengah (480p)
 https://ott-balancer.tvri.go.id/live/eds/Kalteng/hls/Kalteng.m3u8
-#EXTINF:-1 group-title="印尼语 / 印尼 / 宗教", TVRI Kalimantan Timur (720p)
+#EXTINF:-1 group-title="印尼语 / 其他地区 / 其他", TVRI Kalimantan Timur (720p)
 https://ott-balancer.tvri.go.id/live/eds/Kaltim/hls/Kaltim.m3u8
-#EXTINF:-1 group-title="印尼语 / 印尼 / 宗教", TVRI Lampung (720p)
+#EXTINF:-1 group-title="印尼语 / 其他地区 / 其他", TVRI Lampung (720p)
 https://ott-balancer.tvri.go.id/live/eds/Lampung/hls/Lampung.m3u8
-#EXTINF:-1 group-title="印尼语 / 印尼 / 宗教", TVRI Maluku (480p)
+#EXTINF:-1 group-title="印尼语 / 其他地区 / 其他", TVRI Maluku (480p)
 https://ott-balancer.tvri.go.id/live/eds/Ambon/hls/Ambon.m3u8
-#EXTINF:-1 group-title="印尼语 / 印尼 / 宗教", TVRI Nusa Tenggara Barat (720p)
+#EXTINF:-1 group-title="印尼语 / 其他地区 / 其他", TVRI Nusa Tenggara Barat (720p)
 https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB.m3u8
-#EXTINF:-1 group-title="印尼语 / 印尼 / 宗教", TVRI Nusa Tenggara Timur (480p)
+#EXTINF:-1 group-title="印尼语 / 其他地区 / 其他", TVRI Nusa Tenggara Timur (480p)
 https://ott-balancer.tvri.go.id/live/eds/NTT/hls/NTT.m3u8
-#EXTINF:-1 group-title="印尼语 / 印尼 / 宗教", TVRI Papua (480p)
+#EXTINF:-1 group-title="印尼语 / 其他地区 / 其他", TVRI Papua (480p)
 https://ott-balancer.tvri.go.id/live/eds/Papua/hls/Papua.m3u8
-#EXTINF:-1 group-title="印尼语 / 印尼 / 宗教", TVRI Riau (720p) [Not 24/7]
+#EXTINF:-1 group-title="印尼语 / 其他地区 / 其他", TVRI Riau (720p) [Not 24/7]
 https://ott-balancer.tvri.go.id/live/eds/Riau/hls/Riau.m3u8
-#EXTINF:-1 group-title="印尼语 / 印尼 / 宗教", TVRI Sport (720p)
+#EXTINF:-1 group-title="印尼语 / 其他地区 / 其他", TVRI Sport (720p)
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
-#EXTINF:-1 group-title="印尼语 / 印尼 / 宗教", TVRI Sulawesi Barat (720p)
+#EXTINF:-1 group-title="印尼语 / 其他地区 / 其他", TVRI Sulawesi Barat (720p)
 https://ott-balancer.tvri.go.id/live/eds/Sulbar/hls/Sulbar.m3u8
-#EXTINF:-1 group-title="印尼语 / 印尼 / 宗教", TVRI Sulawesi Selatan (480p)
+#EXTINF:-1 group-title="印尼语 / 其他地区 / 其他", TVRI Sulawesi Selatan (480p)
 https://ott-balancer.tvri.go.id/live/eds/Sulsel/hls/Sulsel.m3u8
-#EXTINF:-1 group-title="印尼语 / 印尼 / 宗教", TVRI Sulawesi Tengah (720p)
+#EXTINF:-1 group-title="印尼语 / 其他地区 / 其他", TVRI Sulawesi Tengah (720p)
 https://ott-balancer.tvri.go.id/live/eds/Sulteng/hls/Sulteng.m3u8
-#EXTINF:-1 group-title="印尼语 / 印尼 / 宗教", TVRI Sulawesi Tenggara (480p)
+#EXTINF:-1 group-title="印尼语 / 其他地区 / 其他", TVRI Sulawesi Tenggara (480p)
 https://ott-balancer.tvri.go.id/live/eds/Sultra/hls/Sultra.m3u8
-#EXTINF:-1 group-title="印尼语 / 印尼 / 宗教", TVRI Sumatera Barat (720p)
+#EXTINF:-1 group-title="印尼语 / 其他地区 / 其他", TVRI Sumatera Barat (720p)
 https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/Sumbar.m3u8
-#EXTINF:-1 group-title="印尼语 / 印尼 / 宗教", TVRI Sumatera Selatan (480p)
+#EXTINF:-1 group-title="印尼语 / 其他地区 / 其他", TVRI Sumatera Selatan (480p)
 https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/Sumsel.m3u8
-#EXTINF:-1 group-title="印尼语 / 印尼 / 宗教", TVRI Yogyakarta (720p)
+#EXTINF:-1 group-title="印尼语 / 其他地区 / 其他", TVRI Yogyakarta (720p)
 https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
 #EXTINF:-1 group-title="印尼语 / 其他地区 / 其他", UGTV (720p)
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
@@ -151,7 +151,7 @@ https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 http://trn03.bozztv.com/gin-cctv4/index.m3u8
 #EXTINF:-1 group-title="中文 / 其他地区 / 其他", CGNTV Chinese (1080p)
 https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8
-#EXTINF:-1 group-title="中文 / 中国大陆 / 其他", CGTN (1080p)
+#EXTINF:-1 group-title="中文 / 其他地区 / 其他", CGTN (1080p)
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 #EXTINF:-1 group-title="中文 / 其他地区 / 其他", Creation TV (720p)
 https://cdn.deepcore.online/hlsme/ctv_hk.m3u8
@@ -223,11 +223,11 @@ https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/master.m3u8
 https://live3.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
 #EXTINF:-1 group-title="中文 / 其他地区 / 其他", TDM Info. Macau (720p) [Not 24/7]
 https://live3.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
-#EXTINF:-1 group-title="中文 / 其他地区 / 体育", TDM Sports Ch. 93 (720p)
+#EXTINF:-1 group-title="中文 / 其他地区 / 其他", TDM Sports Ch. 93 (720p)
 https://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
 #EXTINF:-1 group-title="中文 / 其他地区 / 其他", Tonghua TV
 https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8
-#EXTINF:-1 group-title="中文 / 香港 / 娱乐", TVBS Asia (1080p)
+#EXTINF:-1 group-title="中文 / 香港 / 其他", TVBS Asia (1080p)
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 #EXTINF:-1 group-title="中文 / 其他地区 / 其他", VOA美国之音
 https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
@@ -409,7 +409,7 @@ http://149.100.19.147:8000/play/a02t
 https://6prlive.akamaized.net/hls/live/2033806/6PR/index.m3u8
 #EXTINF:-1 group-title="英文 / 其他地区 / 其他", 10 Bold Adelaide (1080p)
 https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8
-#EXTINF:-1 group-title="英文 / 澳大利亚 / 其他", 23 ABC Bakersfield CA (KERO) (720p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", 23 ABC Bakersfield CA (KERO) (720p)
 https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
 #EXTINF:-1 group-title="英文 / 其他地区 / 其他", 24 Hour Free Movies (720p)
 https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8
@@ -443,7 +443,7 @@ https://30a-tv.com/beachy.m3u8
 https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8
 #EXTINF:-1 group-title="英文 / 其他地区 / 其他", 30A We Love Cars
 https://30a-tv.com/feeds/vidaa/cars.m3u8
-#EXTINF:-1 group-title="英文 / 其他地区 / 电影", 70s Cinema
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", 70s Cinema
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d878d3d19b30007d2e782/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c263252-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7c57f1f3-2078-4f92-a4b5-6cd444220a70
 #EXTINF:-1 group-title="英文 / 其他地区 / 其他", 80s Rewind
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca525b650be2571e3943c63/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c263253-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b52c759c-a26c-4e65-828b-14277d6117e0
@@ -461,123 +461,123 @@ https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5.m3u8
 http://185.234.111.229:8000/play/a01k
 #EXTINF:-1 group-title="英文 / 其他地区 / 其他", A&E East (720p)
 https://tvpass.org/live/AEEast/hd
-#EXTINF:-1 group-title="英文 / 澳大利亚 / 其他", AABC TV (480p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", AABC TV (480p)
 https://streamer1.connectto.com/AABC_WEB_1201/index.m3u8
-#EXTINF:-1 group-title="英文 / 澳大利亚 / 其他", ABC
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", ABC
 http://41.205.93.154/ABC/index.m3u8
-#EXTINF:-1 group-title="英文 / 澳大利亚 / 其他", ABC 2 Baltimore MD (WMAR) (720p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", ABC 2 Baltimore MD (WMAR) (720p)
 https://apollo.production-public.tubi.io/live/ac-wmar.m3u8
-#EXTINF:-1 group-title="英文 / 澳大利亚 / 其他", ABC 3 Lafayette LA (KATC) (720p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", ABC 3 Lafayette LA (KATC) (720p)
 https://aegis-cloudfront-1.tubi.video/28467730-4b65-4c85-8151-4c7d162c0896/playlist.m3u8
-#EXTINF:-1 group-title="英文 / 澳大利亚 / 其他", ABC 4 Pittsburg PA (WTAE) (720p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", ABC 4 Pittsburg PA (WTAE) (720p)
 https://apollo.production-public.tubi.io/live/ac-wtae.m3u8
-#EXTINF:-1 group-title="英文 / 澳大利亚 / 其他", ABC 4 Seattle WA (KOMO-TV) (720p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", ABC 4 Seattle WA (KOMO-TV) (720p)
 https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
-#EXTINF:-1 group-title="英文 / 澳大利亚 / 其他", ABC 5 Boston MA (WCVB) (720p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", ABC 5 Boston MA (WCVB) (720p)
 https://apollo.production-public.tubi.io/live/ac-wcvb.m3u8
-#EXTINF:-1 group-title="英文 / 澳大利亚 / 其他", ABC 5 Cleveland OH (WEWS) (720p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", ABC 5 Cleveland OH (WEWS) (720p)
 https://apollo.production-public.tubi.io/live/ac-wews2.m3u8
-#EXTINF:-1 group-title="英文 / 澳大利亚 / 其他", ABC 5 Oklahoma City OK (KOCO) (720p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", ABC 5 Oklahoma City OK (KOCO) (720p)
 https://apollo.production-public.tubi.io/live/ac-koco.m3u8
-#EXTINF:-1 group-title="英文 / 澳大利亚 / 其他", ABC 6 Boise ID (KIVI) (720p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", ABC 6 Boise ID (KIVI) (720p)
 https://apollo.production-public.tubi.io/live/ac-kivi.m3u8
-#EXTINF:-1 group-title="英文 / 澳大利亚 / 其他", ABC 6 Indianapolis IN (WRTV) (720p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", ABC 6 Indianapolis IN (WRTV) (720p)
 https://apollo.production-public.tubi.io/live/ac-wrtv.m3u8
-#EXTINF:-1 group-title="英文 / 澳大利亚 / 其他", ABC 7 Albuquerque NM (KOAT) (720p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", ABC 7 Albuquerque NM (KOAT) (720p)
 https://apollo.production-public.tubi.io/live/ac-koat.m3u8
-#EXTINF:-1 group-title="英文 / 澳大利亚 / 新闻", ABC 7 Bay Area and San Francisco News (KGO-DT1) (720p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 新闻", ABC 7 Bay Area and San Francisco News (KGO-DT1) (720p)
 https://content.uplynk.com/channel/ext/4413701bf5a1488db55b767f8ae9d4fa/kgo_24x7_news.m3u8
-#EXTINF:-1 group-title="英文 / 澳大利亚 / 其他", ABC 7 Buffalo NY (WKBW) (720p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", ABC 7 Buffalo NY (WKBW) (720p)
 https://apollo.production-public.tubi.io/live/ac-wkbw.m3u8
-#EXTINF:-1 group-title="英文 / 澳大利亚 / 其他", ABC 7 Denver CO (KMGH) (720p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", ABC 7 Denver CO (KMGH) (720p)
 https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
-#EXTINF:-1 group-title="英文 / 澳大利亚 / 其他", ABC 7 Detroit MI (WXYZ) (720p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", ABC 7 Detroit MI (WXYZ) (720p)
 https://apollo.production-public.tubi.io/live/ac-wxyz2.m3u8
-#EXTINF:-1 group-title="英文 / 澳大利亚 / 其他", ABC 7 Los Angeles CA (KABC-TV) (720p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", ABC 7 Los Angeles CA (KABC-TV) (720p)
 https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
-#EXTINF:-1 group-title="英文 / 澳大利亚 / 其他", ABC 7 Omaha NE (KETV) (720p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", ABC 7 Omaha NE (KETV) (720p)
 https://apollo.production-public.tubi.io/live/ac-ketv.m3u8
-#EXTINF:-1 group-title="英文 / 澳大利亚 / 其他", ABC 8 Portland ME (WMTW) (720p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", ABC 8 Portland ME (WMTW) (720p)
 https://apollo.production-public.tubi.io/live/ac-wmtw.m3u8
-#EXTINF:-1 group-title="英文 / 澳大利亚 / 其他", ABC 9 Cincinnati OH (WCPO) (720p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", ABC 9 Cincinnati OH (WCPO) (720p)
 https://apollo.production-public.tubi.io/live/ac-wcpo.m3u8
-#EXTINF:-1 group-title="英文 / 澳大利亚 / 其他", ABC 9 Manchester NH (WMUR-TV) (720p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", ABC 9 Manchester NH (WMUR-TV) (720p)
 https://apollo.production-public.tubi.io/live/ac-wmur.m3u8
-#EXTINF:-1 group-title="英文 / 澳大利亚 / 其他", ABC 9 Orlando FL (WFTV) (720p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", ABC 9 Orlando FL (WFTV) (720p)
 https://amg00327-coxmediagroup-wftvbreaking-ono-hec7b.amagi.tv/playlist/amg00327-coxmediagroup-wftvbreaking-ono/playlist.m3u8
-#EXTINF:-1 group-title="英文 / 澳大利亚 / 其他", ABC 9 Tucson AZ (KGUN) (720p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", ABC 9 Tucson AZ (KGUN) (720p)
 https://apollo.production-public.tubi.io/live/ac-kgun.m3u8
-#EXTINF:-1 group-title="英文 / 澳大利亚 / 其他", ABC 10 San Diego CA (KGTV) (720p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", ABC 10 San Diego CA (KGTV) (720p)
 https://apollo.production-public.tubi.io/live/ac-kgtv2.m3u8
-#EXTINF:-1 group-title="英文 / 澳大利亚 / 其他", ABC 12 Milwaukee WI (WISN) (720p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", ABC 12 Milwaukee WI (WISN) (720p)
 https://apollo.production-public.tubi.io/live/ac-wisn.m3u8
-#EXTINF:-1 group-title="英文 / 澳大利亚 / 其他", ABC 13 Las Vegas NV (KTNV) (720p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", ABC 13 Las Vegas NV (KTNV) (720p)
 https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8
-#EXTINF:-1 group-title="英文 / 澳大利亚 / 其他", ABC 15 Phoenix AZ (KNXV-TV) (720p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", ABC 15 Phoenix AZ (KNXV-TV) (720p)
 https://content.uplynk.com/channel/9deaf22aaa33461f9cac22e030ed00ec.m3u8
-#EXTINF:-1 group-title="英文 / 澳大利亚 / 其他", ABC 16 Jackson MS (WAPT) (720p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", ABC 16 Jackson MS (WAPT) (720p)
 https://apollo.production-public.tubi.io/live/ac-wapt.m3u8
-#EXTINF:-1 group-title="英文 / 澳大利亚 / 其他", ABC 22 Savannah GA (WJCL) (720p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", ABC 22 Savannah GA (WJCL) (720p)
 https://apollo.production-public.tubi.io/live/ac-wjcl.m3u8
-#EXTINF:-1 group-title="英文 / 澳大利亚 / 新闻", ABC 25 News Central Texas
+#EXTINF:-1 group-title="英文 / 其他地区 / 新闻", ABC 25 News Central Texas
 https://content.uplynk.com/channel/9d4e02c9c3544c269d32e6b316792c8f.m3u8
-#EXTINF:-1 group-title="英文 / 澳大利亚 / 其他", ABC 25 West Palm Beach FL (WPBF) (720p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", ABC 25 West Palm Beach FL (WPBF) (720p)
 https://apollo.production-public.tubi.io/live/ac-wpbf.m3u8
-#EXTINF:-1 group-title="英文 / 澳大利亚 / 其他", ABC 28 Tampa Bay FL (WFTS) (720p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", ABC 28 Tampa Bay FL (WFTS) (720p)
 https://apollo.production-public.tubi.io/live/ac-wfts2.m3u8
-#EXTINF:-1 group-title="英文 / 澳大利亚 / 新闻", ABC 30 Fresno and Central Valley News (KFSN-DT1) (720p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 新闻", ABC 30 Fresno and Central Valley News (KFSN-DT1) (720p)
 https://content.uplynk.com/channel/ext/96195dc445894d079a91958abba8d3af/kfsn_24x7_news.m3u8
-#EXTINF:-1 group-title="英文 / 澳大利亚 / 其他", ABC 40/29 Fort Smith AR (KHBS) (720p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", ABC 40/29 Fort Smith AR (KHBS) (720p)
 https://apollo.production-public.tubi.io/live/ac-khbs.m3u8
-#EXTINF:-1 group-title="英文 / 澳大利亚 / 其他", ABC (WPLG-DT1) Miami FL (720p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", ABC (WPLG-DT1) Miami FL (720p)
 https://pubads.g.doubleclick.net/ssai/event/tQD6w9OJQVOobcyV3Dammw/master.m3u8
-#EXTINF:-1 group-title="英文 / 澳大利亚 / 其他", ABC Australia
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", ABC Australia
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
-#EXTINF:-1 group-title="英文 / 澳大利亚 / 其他", ABC Me (720p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", ABC Me (720p)
 https://c.mjh.nz/abc-me.m3u8
-#EXTINF:-1 group-title="英文 / 澳大利亚 / 新闻", ABC News
+#EXTINF:-1 group-title="英文 / 其他地区 / 新闻", ABC News
 https://c.mjh.nz/abc-news.m3u8
-#EXTINF:-1 group-title="英文 / 澳大利亚 / 新闻", ABC News (720p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 新闻", ABC News (720p)
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1 group-title="英文 / 澳大利亚 / 新闻", ABC News Live 1 (720p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 新闻", ABC News Live 1 (720p)
 https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8
-#EXTINF:-1 group-title="英文 / 澳大利亚 / 新闻", ABC News Live 2 (720p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 新闻", ABC News Live 2 (720p)
 https://abcnews-streams.akamaized.net/hls/live/2023561/abcnews2/master.m3u8
-#EXTINF:-1 group-title="英文 / 澳大利亚 / 新闻", ABC News Live 3 (720p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 新闻", ABC News Live 3 (720p)
 https://abcnews-streams.akamaized.net/hls/live/2023562/abcnews3/master.m3u8
-#EXTINF:-1 group-title="英文 / 澳大利亚 / 新闻", ABC News Live 4 (720p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 新闻", ABC News Live 4 (720p)
 https://abcnews-streams.akamaized.net/hls/live/2023563/abcnews4/master.m3u8
-#EXTINF:-1 group-title="英文 / 澳大利亚 / 新闻", ABC News Live 5 (720p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 新闻", ABC News Live 5 (720p)
 https://abcnews-streams.akamaized.net/hls/live/2023564/abcnews5/master.m3u8
-#EXTINF:-1 group-title="英文 / 澳大利亚 / 新闻", ABC News Live 6 (720p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 新闻", ABC News Live 6 (720p)
 https://abcnews-streams.akamaized.net/hls/live/2023565/abcnews6/master.m3u8
-#EXTINF:-1 group-title="英文 / 澳大利亚 / 新闻", ABC News Live 7 (720p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 新闻", ABC News Live 7 (720p)
 https://abcnews-streams.akamaized.net/hls/live/2023566/abcnews7/master.m3u8
-#EXTINF:-1 group-title="英文 / 澳大利亚 / 新闻", ABC News Live 8 (720p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 新闻", ABC News Live 8 (720p)
 https://abcnews-streams.akamaized.net/hls/live/2023567/abcnews8/master.m3u8
-#EXTINF:-1 group-title="英文 / 澳大利亚 / 新闻", ABC News Live 9 (720p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 新闻", ABC News Live 9 (720p)
 https://abcnews-streams.akamaized.net/hls/live/2023568/abcnews9/master.m3u8
-#EXTINF:-1 group-title="英文 / 澳大利亚 / 新闻", ABC News Live 10 (720p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 新闻", ABC News Live 10 (720p)
 https://abcnews-streams.akamaized.net/hls/live/2023569/abcnews10/master.m3u8
-#EXTINF:-1 group-title="英文 / 澳大利亚 / 新闻", ABC News New York NY (WABC-TV) (720p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 新闻", ABC News New York NY (WABC-TV) (720p)
 https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8
-#EXTINF:-1 group-title="英文 / 澳大利亚 / 其他", ABC Tallahassee (720p) [Not 24/7]
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", ABC Tallahassee (720p) [Not 24/7]
 https://content.uplynk.com/channel/c66d1d2d9e2c46cea1cf22a33f6ca488.m3u8
-#EXTINF:-1 group-title="英文 / 澳大利亚 / 其他", ABC TV Adelaide (720p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", ABC TV Adelaide (720p)
 https://c.mjh.nz/abc-sa.m3u8
-#EXTINF:-1 group-title="英文 / 澳大利亚 / 其他", ABC TV Brisbane (720p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", ABC TV Brisbane (720p)
 https://c.mjh.nz/abc-qld.m3u8
-#EXTINF:-1 group-title="英文 / 澳大利亚 / 其他", ABC TV Canberra (720p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", ABC TV Canberra (720p)
 https://c.mjh.nz/abc-act.m3u8
-#EXTINF:-1 group-title="英文 / 澳大利亚 / 其他", ABC TV Hobart (720p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", ABC TV Hobart (720p)
 https://c.mjh.nz/abc-tas.m3u8
-#EXTINF:-1 group-title="英文 / 澳大利亚 / 其他", ABC TV Melbourne (720p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", ABC TV Melbourne (720p)
 https://c.mjh.nz/abc-vic.m3u8
-#EXTINF:-1 group-title="英文 / 澳大利亚 / 其他", ABC TV Perth (720p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", ABC TV Perth (720p)
 https://c.mjh.nz/abc-wa.m3u8
-#EXTINF:-1 group-title="英文 / 澳大利亚 / 其他", ABC TV Plus (720p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", ABC TV Plus (720p)
 https://c.mjh.nz/abc-tv-plus.m3u8
-#EXTINF:-1 group-title="英文 / 澳大利亚 / 其他", ABC WWAY 3
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", ABC WWAY 3
 https://wway.akamaized.net/hls/live/2029583/wway_ingest/master.m3u8
 #EXTINF:-1 group-title="英文 / 其他地区 / 其他", ABN Africa (480p)
 https://mediaserver.abnvideos.com/streams/abnafrica.m3u8
@@ -585,7 +585,7 @@ https://mediaserver.abnvideos.com/streams/abnafrica.m3u8
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 #EXTINF:-1 group-title="英文 / 其他地区 / 新闻", ABP News (720p)
 https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
-#EXTINF:-1 group-title="英文 / 其他地区 / 体育", Abu Dhabi Sports 1 (1080p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", Abu Dhabi Sports 1 (1080p)
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
 #EXTINF:-1 group-title="英文 / 其他地区 / 其他", Abu Dhabi TV
 http://dvrfl05.bozztv.com/gin-abudhabitv/index.m3u8
@@ -725,7 +725,7 @@ https://stream.hydeinnovations.com/arktv-international/index.fmp4.m3u8
 https://cdn01.setar.aw/Canal49/canal49/playlist.m3u8
 #EXTINF:-1 group-title="英文 / 其他地区 / 其他", Aspire
 https://fl3.moveonjoy.com/Aspire/index.m3u8
-#EXTINF:-1 group-title="英文 / 马来西亚 / 娱乐", Astro Vinmeen
+#EXTINF:-1 group-title="英文 / 马来西亚 / 其他", Astro Vinmeen
 https://live20.bozztv.com/akamaissh101/ssh101/sungo544/playlist.m3u8
 #EXTINF:-1 group-title="英文 / 其他地区 / 其他", At Home with Family Handyman
 https://linear-458.frequency.stream/dist/xumo/458/hls/master/playlist.m3u8
@@ -765,21 +765,21 @@ https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist
 https://vbfast-c.viebit.com/072e341f-100d-4da1-9c18-65370ebf35c6/playlist.m3u8
 #EXTINF:-1 group-title="英文 / 其他地区 / 其他", Bar Rescue
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/655f2ee6c0fc88000877d26c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c794332-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0960644d-9f55-4a3e-8c16-71ab199dc6b4
-#EXTINF:-1 group-title="英文 / 英国 / 新闻", BBC America
+#EXTINF:-1 group-title="英文 / 英国 / 其他", BBC America
 https://dvrfl04.tulix.tv/teleup-bbca/index.m3u8
-#EXTINF:-1 group-title="英文 / 英国 / 新闻", BBC Food
+#EXTINF:-1 group-title="英文 / 英国 / 其他", BBC Food
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a0-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c628f2e9-ff30-4bd0-9ff6-99fb1649f628
-#EXTINF:-1 group-title="英文 / 英国 / 新闻", BBC Four UK HD
+#EXTINF:-1 group-title="英文 / 英国 / 其他", BBC Four UK HD
 https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8.m3u8
-#EXTINF:-1 group-title="英文 / 英国 / 新闻", BBC Home & Garden
+#EXTINF:-1 group-title="英文 / 英国 / 其他", BBC Home & Garden
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fb5836fe745b600070fc743/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=844b6663-bad2-462b-9aef-d0f33d5dfaa0
 #EXTINF:-1 group-title="英文 / 英国 / 新闻", BBC News (720p)
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
 #EXTINF:-1 group-title="英文 / 英国 / 新闻", BBC News (North America) (1080p)
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
-#EXTINF:-1 group-title="英文 / 英国 / 新闻", BBC Three HD (720p)
+#EXTINF:-1 group-title="英文 / 英国 / 其他", BBC Three HD (720p)
 https://streamer.nexyl.uk/39290a19-b8dd-43ea-b8dc-081c37790f24.m3u8
-#EXTINF:-1 group-title="英文 / 英国 / 新闻", BBC Two HD (720p)
+#EXTINF:-1 group-title="英文 / 英国 / 其他", BBC Two HD (720p)
 https://streamer.nexyl.uk/69ef899e-8ca9-4537-9f1a-fe8b4216afbb.m3u8
 #EXTINF:-1 group-title="英文 / 其他地区 / 其他", Beach TV Florida & Alabama (720p)
 http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
@@ -795,7 +795,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/630348a54c48ce00077eb6c7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1ca065-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c5b43dd2-234d-4338-9a94-c40967ccbed6
 #EXTINF:-1 group-title="英文 / 其他地区 / 新闻", BEK TV News (720p)
 https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEeast.smil/playlist.m3u8
-#EXTINF:-1 group-title="英文 / 其他地区 / 体育", BEK TV Sports West (720p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", BEK TV Sports West (720p)
 https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
 #EXTINF:-1 group-title="英文 / 其他地区 / 其他", BeritaSatu English
 https://beritasatu.secureswiftcontent.com/han/beritasatu/bsatu10008/srtoutput/manifest.m3u8
@@ -835,7 +835,7 @@ https://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65df0cff66eec8000897b3a4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1cc775-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=36e4c683-680e-486f-91f0-ce1f0f88c4b6
 #EXTINF:-1 group-title="英文 / 其他地区 / 其他", Binge
 https://videostack1.cdnstream1.com:1936/binge-tv/binge-tv/playlist.m3u8
-#EXTINF:-1 group-title="英文 / 其他地区 / 电影", Black Cinema
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", Black Cinema
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c271cb5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=93605d96-6c9d-457d-a2b4-d26d07474db9
 #EXTINF:-1 group-title="英文 / 其他地区 / 其他", Black Classics
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60f85644a9493e0007a1f035/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c271cb6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=90e515e4-694d-47f7-9f2b-806f0a05d62c
@@ -1027,11 +1027,11 @@ https://cbsn-phi.cbsnstream.cbsnews.com/out/v1/5c9ad3e215984b0e9ad845b335216b72/
 https://cbsn-pit.cbsnstream.cbsnews.com/out/v1/6966dabf8150405ab26f854e3cd6a2b8/master.m3u8
 #EXTINF:-1 group-title="英文 / 其他地区 / 新闻", CBS News Sacramento (720p)
 https://lineup.cbsivideo.com/playout/c1ed69db-6b71-4581-a937-a70ab4089f8a/index.m3u8
-#EXTINF:-1 group-title="英文 / 其他地区 / 体育", CBS Sports Golazo Network
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", CBS Sports Golazo Network
 https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
-#EXTINF:-1 group-title="英文 / 其他地区 / 体育", CBS Sports HQ
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", CBS Sports HQ
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3a15356b-8467-4ae7-b2f6-9c8467fcf41d
-#EXTINF:-1 group-title="英文 / 其他地区 / 体育", CBS Sports Network USA
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", CBS Sports Network USA
 https://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 group-title="英文 / 中国大陆 / 其他", CCTV-4 America (1080p)
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
@@ -1045,11 +1045,11 @@ https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/cerritos/G0010_002/playlist.m3u8
 https://cdn3.wowza.com/5/djRwZmQvTEJidmZD/cityftmyers/G2083_002/playlist.m3u8
 #EXTINF:-1 group-title="英文 / 其他地区 / 其他", CFN Catholic Faith Network (720p)
 https://uni8rtmp.tulix.tv/cfntv/cfntv/playlist.m3u8
-#EXTINF:-1 group-title="英文 / 中国大陆 / 其他", CGTN (1080p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", CGTN (1080p)
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
-#EXTINF:-1 group-title="英文 / 中国大陆 / 其他", CGTN Documentary
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", CGTN Documentary
 https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8
-#EXTINF:-1 group-title="英文 / 中国大陆 / 其他", CGTN Documentary (1080p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", CGTN Documentary (1080p)
 https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
 #EXTINF:-1 group-title="英文 / 其他地区 / 其他", Champaign Government Television (CGTV) (Champaign IL) (720p)
 https://reflect-champaign.cablecast.tv/live-6/live/live.m3u8
@@ -1349,7 +1349,7 @@ https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8
 https://eu.streamjo.com/eetlive/eettv.m3u8
 #EXTINF:-1 group-title="英文 / 其他地区 / 其他", Electric Now (1080p) [Not 24/7]
 https://elec-en.otteravision.com/elec/en/elec_en.m3u8
-#EXTINF:-1 group-title="英文 / 其他地区 / 体育", Eleven Sports 1 (2160p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", Eleven Sports 1 (2160p)
 http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/20068/index.m3u8
 #EXTINF:-1 group-title="英文 / 其他地区 / 其他", Eman Channel (576p)
 https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
@@ -1361,9 +1361,9 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 https://cbsta49f-cbsta49f-ms.global.ssl.fastly.net/amagi7b98-AmagiMixible/master/amagi7b98-AmagiMixible.m3u8
 #EXTINF:-1 group-title="英文 / 其他地区 / 其他", Escambia County TV ECTV (Escambia County FL) (720p)
 https://cpcdn.azureedge.net/ESCAMBIACOFLLIVE1/ESCAMBIACOFLLIVE1/playlist.m3u8
-#EXTINF:-1 group-title="英文 / 美国 / 体育", ESPN U (720p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 体育", ESPN U (720p)
 https://fl3.moveonjoy.com/ESPN_U/index.m3u8
-#EXTINF:-1 group-title="英文 / 美国 / 新闻", ESPNews (720p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 新闻", ESPNews (720p)
 https://fl3.moveonjoy.com/ESPN_NEWS/index.m3u8
 #EXTINF:-1 group-title="英文 / 其他地区 / 其他", ET Now Swadesh (720p)
 https://d32gxr3r1ksq2p.cloudfront.net/master.m3u8
@@ -1395,7 +1395,7 @@ https://reflect-fairfield-ca.cablecast.tv/live-8/live/live.m3u8
 https://cdn.freevisiontv.co.za/sttv/smil:faith.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="英文 / 其他地区 / 其他", Fame95 FM (480p)
 https://rjr-fame.akamaized.net/hls/live/2033820/RJR_FAME/master.m3u8
-#EXTINF:-1 group-title="英文 / 其他地区 / 体育", FanDuel Sports Network
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", FanDuel Sports Network
 https://fl3.moveonjoy.com/PAC_12/index.m3u8
 #EXTINF:-1 group-title="英文 / 其他地区 / 其他", FanDuel TV
 https://fl3.moveonjoy.com/TVG/index.m3u8
@@ -1497,9 +1497,9 @@ http://41.205.93.154/FOXBUSINESS/index.m3u8
 https://radiovid.foxnews.com/hls/live/661547/RADIOVID/index.m3u8
 #EXTINF:-1 group-title="英文 / 其他地区 / 其他", Fox Soul
 https://fl1.moveonjoy.com/FOX_SOUL/index.m3u8
-#EXTINF:-1 group-title="英文 / 其他地区 / 体育", Fox Sports 2 (720p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", Fox Sports 2 (720p)
 http://23.237.104.106:8080/USA_FS2/index.m3u8
-#EXTINF:-1 group-title="英文 / 其他地区 / 体育", Fox Sports en Espanol (720p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", Fox Sports en Espanol (720p)
 https://apollo.production-public.tubi.io/live/fox-sports-espanol.m3u8
 #EXTINF:-1 group-title="英文 / 其他地区 / 其他", Fox Weather (720p)
 https://247wlive.foxweather.com/stream/index.m3u8
@@ -1515,11 +1515,11 @@ https://d1h1d6qoy9vnra.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 https://tvpass.org/live/FreeformEast/hd
 #EXTINF:-1 group-title="英文 / 其他地区 / 其他", Fresno CMAC 1 Public Channel (720p)
 https://reflect-vod-cmac.cablecast.tv/live-11/live/live.m3u8
-#EXTINF:-1 group-title="英文 / 其他地区 / 教育", Fresno CMAC 2 Education Channel (720p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", Fresno CMAC 2 Education Channel (720p)
 https://reflect-vod-cmac.cablecast.tv/live-12/live/live.m3u8
 #EXTINF:-1 group-title="英文 / 其他地区 / 其他", Fresno CMAC 3 Government Channel (720p)
 https://reflect-vod-cmac.cablecast.tv/live-13/live/live.m3u8
-#EXTINF:-1 group-title="英文 / 其他地区 / 体育", Fubo Sports Network (1080p) [Geo-blocked]
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", Fubo Sports Network (1080p) [Geo-blocked]
 https://apollo.production-public.tubi.io/live/ac-fubo.m3u8
 #EXTINF:-1 group-title="英文 / 其他地区 / 其他", FUEL TV (1080p)
 https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8
@@ -1631,7 +1631,7 @@ https://livetv-fa.tubi.video/grit-extra/playlist.m3u8
 https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
 #EXTINF:-1 group-title="英文 / 其他地区 / 其他", GTV
 https://g2qd3exjy7an-hls-live.5centscdn.com/gtvghana/ghanaweb.stream/playlist.m3u8
-#EXTINF:-1 group-title="英文 / 其他地区 / 体育", GTV Sports +
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", GTV Sports +
 https://g2qd3exjy7an-hls-live.5centscdn.com/gtvsport/ghanaweb.stream/playlist.m3u8
 #EXTINF:-1 group-title="英文 / 其他地区 / 其他", Guardian Talk Radio (1080p)
 https://cdn-edge1.streamcomedia.com/abr_tngr969fm/abr-tngr969fm_streams/playlist.m3u8
@@ -1761,7 +1761,7 @@ https://live.presstv.ir/hls/presstv_5_482/index.m3u8
 https://cdn3.wowza.com/5/WDIrTW5sM1JEY1NN/irvine/G0016_010/playlist.m3u8
 #EXTINF:-1 group-title="英文 / 其他地区 / 其他", Isaac TV (720p)
 https://livecdn.live247stream.com/isaac/tv/playlist.m3u8
-#EXTINF:-1 group-title="英文 / 其他地区 / 其他", Islam Channel (576p) [Not 24/7]
+#EXTINF:-1 group-title="英文 / 其他地区 / 宗教", Islam Channel (576p) [Not 24/7]
 https://live.islamchannel.tv/live11/islamtv_english/bitrate1.isml/live.m3u8
 #EXTINF:-1 group-title="英文 / 其他地区 / 其他", Island Luck TV
 https://cdn3.wowza.com/5/dFA0TmRpeFdNVXhT/NetUp/ILTV.stream/playlist.m3u8
@@ -1791,7 +1791,7 @@ https://amg00514-noseybaxterllc-realnosey-cineverse-tqbpv.amagi.tv/playlist/amg0
 https://juicex.nz/hls/mystream.m3u8
 #EXTINF:-1 group-title="英文 / 其他地区 / 其他", K-Content by CJ ENM
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6176ff3ba00900000763710f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2966a4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=783bd025-4cbc-40c4-a742-b70d428fd035
-#EXTINF:-1 group-title="英文 / 澳大利亚 / 其他", KABC-DT1 (720p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", KABC-DT1 (720p)
 https://tvpass.org/live/abc-kabc-los-angeles-ca/hd
 #EXTINF:-1 group-title="英文 / 其他地区 / 其他", Kartoon Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchannel-samsungnz/playlist.m3u8
@@ -1891,7 +1891,7 @@ https://cvtv.cvalley.net/hls/KSHBLaff/KSHBLaff.m3u8
 https://cvtv.cvalley.net/hls/KSMOIND/KSMOIND.m3u8
 #EXTINF:-1 group-title="英文 / 其他地区 / 其他", KTIV-DT6
 http://txc4-swbb-mn.fibernet-tv.com/KABY-CW-2364/index.m3u8
-#EXTINF:-1 group-title="英文 / 澳大利亚 / 新闻", KTRK TV ABC 13 News (720p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 新闻", KTRK TV ABC 13 News (720p)
 https://content.uplynk.com/channel/ext/1efe3bfc4d1e4b5db5e5085a535b510b/ktrk_24x7_news.m3u8
 #EXTINF:-1 group-title="英文 / 其他地区 / 其他", KTV 2 (1080p)
 https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist.m3u8
@@ -1957,7 +1957,7 @@ https://brightstar-hisword-pull-secure.akamaized.net/brightstarhisword/stream.m3
 https://brightstar-sls-pull-secure.akamaized.net/brightstarsls/stream.m3u8
 #EXTINF:-1 group-title="英文 / 其他地区 / 其他", Little Guyana TV (1080p)
 https://video1.getstreamhosting.com:1936/8122/8122/playlist.m3u8
-#EXTINF:-1 group-title="英文 / 印度 / 娱乐", Little Stars Universe
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", Little Stars Universe
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c298db3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=33174d1f-99cb-4190-85d6-69259af9a54b
 #EXTINF:-1 group-title="英文 / 其他地区 / 其他", Littleton 8 TV (Littleton CO) (1080p)
 https://ch8.littletongov.org/live-2/live/live.m3u8
@@ -1973,7 +1973,7 @@ https://cdn-unified-hls.streamspot.com/ingest1/0b5c0f18e9/playlist.m3u8?origin=1
 https://cdnstack.internetmultimediaonline.org/ln24/ln24.stream/playlist.m3u8
 #EXTINF:-1 group-title="英文 / 其他地区 / 其他", LNKTV City (1080p)
 http://5tv.lincoln.ne.gov/live/live.m3u8
-#EXTINF:-1 group-title="英文 / 其他地区 / 教育", LNKTV Education (1080p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", LNKTV Education (1080p)
 http://80tv.lincoln.ne.gov/live/live.m3u8
 #EXTINF:-1 group-title="英文 / 其他地区 / 其他", LNKTV Health (1080p)
 http://10tv.lincoln.ne.gov/live/live.m3u8
@@ -1995,9 +1995,9 @@ https://livestream.telvue.com/lompoccmttv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/
 https://livestream.telvue.com/lompoccmttv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 group-title="英文 / 其他地区 / 其他", Lompoc TAP TV Channel 25 (720p)
 https://livestream.telvue.com/lompoccmttv3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 group-title="英文 / 印度 / 娱乐", Lone Star (720p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", Lone Star (720p)
 https://6b88cde9.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0xvbmVTdGFyX0hMUw/playlist.m3u8
-#EXTINF:-1 group-title="英文 / 印度 / 娱乐", Lone Star (1080p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", Lone Star (1080p)
 https://lonestar-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="英文 / 其他地区 / 其他", Los Angeles Local Television Channel 36 (1080p)
 https://reflect-channel36-la.cablecast.tv/live-3/live/live.m3u8
@@ -2037,7 +2037,7 @@ https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/martin/G0074_002/playlist.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63da365f60bc8f0008a50f44/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7af0e8-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4f26df9e-4f5e-4183-a843-1996b0eaf551
 #EXTINF:-1 group-title="英文 / 其他地区 / 其他", MAV Select USA
 https://d3h07n6l1exhds.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0z2yyo4dxctc7/playlist.m3u8
-#EXTINF:-1 group-title="英文 / 其他地区 / 电影", Maverick Black Cinema (1080p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", Maverick Black Cinema (1080p)
 https://maverick-maverick-black-cinema-3-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="英文 / 其他地区 / 其他", MAVTV (1080p)
 https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8
@@ -2067,9 +2067,9 @@ https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_COMEDY.smil/Playlist.m3u8
 https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8
 #EXTINF:-1 group-title="英文 / 其他地区 / 其他", MERU TV (720p) [Not 24/7]
 https://goliveafrica.media:9998/live/628e5c1991061/index.m3u8
-#EXTINF:-1 group-title="英文 / 印尼 / 其他", Metro Globe Network (1080p) [Not 24/7]
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", Metro Globe Network (1080p) [Not 24/7]
 https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
-#EXTINF:-1 group-title="英文 / 印尼 / 其他", Metro TV
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", Metro TV
 https://g2qd3exjy7an-hls-live.5centscdn.com/metrotvg/ghanaweb.stream/playlist.m3u8
 #EXTINF:-1 group-title="英文 / 其他地区 / 其他", MeTV
 https://fl3.moveonjoy.com/ME_TV/index.m3u8
@@ -2089,7 +2089,7 @@ https://5c2974786200d.streamlock.net/live-chan75/ngrp:ch75_all/playlist.m3u8
 https://5c2974786200d.streamlock.net/live-chan26/ngrp:ch26_all/playlist.m3u8
 #EXTINF:-1 group-title="英文 / 其他地区 / 其他", Midpen Media Center Government etc Channel 29 (720p)
 https://5c2974786200d.streamlock.net/live-chan29/ngrp:ch29_all/playlist.m3u8
-#EXTINF:-1 group-title="英文 / 其他地区 / 体育", Midpen Media Center Youth Education and Sports Channel 28 (720p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", Midpen Media Center Youth Education and Sports Channel 28 (720p)
 https://5c2974786200d.streamlock.net/live-chan28/ngrp:ch28_all/playlist.m3u8
 #EXTINF:-1 group-title="英文 / 其他地区 / 其他", Midsomer Murders
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e92447ea1e2a000735ed33/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f1-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8d95013f-2fa7-4fc2-a78f-993e5252da47
@@ -2205,7 +2205,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtven-xi
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-eng-samsungse/playlist.m3u8
 #EXTINF:-1 group-title="英文 / 其他地区 / 其他", Muzzik FLASHBACK (720p)
 https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
-#EXTINF:-1 group-title="英文 / 印度 / 娱乐", Muzzik POP STAR (720p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", Muzzik POP STAR (720p)
 https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
 #EXTINF:-1 group-title="英文 / 其他地区 / 其他", Muzzik SENSE (720p)
 https://muzzik-live.morescreens.com/mts-7/playlist.m3u8
@@ -2231,7 +2231,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex
 https://stream2.pivotalelements.com/memfs/2d2e1038-9eb2-44df-a9b9-109de5752f3b_output_0.m3u8
 #EXTINF:-1 group-title="英文 / 其他地区 / 其他", Nago TV (240p)
 https://lakay.online/public/nagotv/index.fmp4.m3u8
-#EXTINF:-1 group-title="英文 / 其他地区 / 教育", Napa Valley TV Education Access Channel 27 (480p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", Napa Valley TV Education Access Channel 27 (480p)
 https://cdn3.wowza.com/5/WDIrTW5sM1JEY1NN/napatv/G0360_003/playlist.m3u8
 #EXTINF:-1 group-title="英文 / 其他地区 / 其他", Napa Valley TV Public Access Channel 28 (480p)
 https://cdn3.wowza.com/5/WDIrTW5sM1JEY1NN/napatv/G0360_004/playlist.m3u8
@@ -2315,11 +2315,11 @@ https://amg00884-nbcuniversal-ctnews-xumo-cdfzg.amagi.tv/playlist.m3u8
 https://nbculocalfast.akamaized.net/hls/live/2096797/nbcchicago/master.m3u8
 #EXTINF:-1 group-title="英文 / 其他地区 / 新闻", NBC News NOW
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5df97894467dfa00091c873c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5101-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f97284ae-c6d0-447a-b3ee-5be284830e0b
-#EXTINF:-1 group-title="英文 / 其他地区 / 体育", NBC Sports Bay Area (720p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", NBC Sports Bay Area (720p)
 https://tvpass.org/live/nbc-sports-bay-area/hd
-#EXTINF:-1 group-title="英文 / 其他地区 / 体育", NBC Sports Boston (1080p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", NBC Sports Boston (1080p)
 https://tvpass.org/live/nbc-sports-boston/hd
-#EXTINF:-1 group-title="英文 / 其他地区 / 体育", NBC Sports Philadelphia (720p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", NBC Sports Philadelphia (720p)
 https://tvpass.org/live/nbc-sports-philadelphia/hd
 #EXTINF:-1 group-title="英文 / 其他地区 / 其他", NBC TV (1080p) [Not 24/7]
 https://205444.global.ssl.fastly.net/64ee8a084b935f9f8a6f8825/live_ab333a6093bc11eeb89fbd81423485b7/index.fmp4.m3u8
@@ -2455,7 +2455,7 @@ https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/olelo/G0125_011/playlist.m3u8
 https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/olelo/G0125_012/playlist.m3u8
 #EXTINF:-1 group-title="英文 / 其他地区 / 其他", Olelo Community Media Channel 55 (720p)
 https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/olelo/G0125_013/playlist.m3u8
-#EXTINF:-1 group-title="英文 / 其他地区 / 体育", Oman Sports TV (1080p) [Not 24/7]
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", Oman Sports TV (1080p) [Not 24/7]
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 #EXTINF:-1 group-title="英文 / 其他地区 / 其他", Omid Javedan (720p) [Not 24/7]
 http://livestream.5centscdn.com/shaditv/23abe62a446fc05ce0a6c810f4045308.sdp/index.m3u8
@@ -2645,7 +2645,7 @@ https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/pompano/G0765_005/playlist.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01753-narrativeentert-popkids-lggb/playlist.m3u8
 #EXTINF:-1 group-title="英文 / 其他地区 / 其他", POP World TV (720p)
 https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8
-#EXTINF:-1 group-title="英文 / 印度 / 娱乐", Popstar! TV (1080p) [Not 24/7]
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", Popstar! TV (1080p) [Not 24/7]
 https://linear-10.frequency.stream/dist/plex/10/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="英文 / 其他地区 / 其他", Port St Lucie PSL TV (Port St Lucie FL) (360p)
 https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/psl/G0262_003/playlist.m3u8
@@ -2811,9 +2811,9 @@ https://sramsburg-hls.secdn.net/sramsburg-channel/play/s2bdf5.smil/playlist.m3u8
 https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="英文 / 其他地区 / 其他", S4C (1080p) [Geo-blocked]
 https://live-uk.s4c-cdn.co.uk/out/v1/a0134f1fd5a2461b9422b574566d4442/live_uk.m3u8
-#EXTINF:-1 group-title="英文 / 澳大利亚 / 其他", SABC Lehae [Geo-blocked]
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", SABC Lehae [Geo-blocked]
 https://sabctretalh.cdn.mangomolo.com/lehae/smil:lehae.stream.smil/master.m3u8
-#EXTINF:-1 group-title="英文 / 澳大利亚 / 新闻", SABC News (720p) [Geo-blocked]
+#EXTINF:-1 group-title="英文 / 其他地区 / 新闻", SABC News (720p) [Geo-blocked]
 https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/master.m3u8
 #EXTINF:-1 group-title="英文 / 其他地区 / 其他", Safeer TV (1080p)
 https://cdn3.wowza.com/1/YStGZlJRdktzZkdK/VXROZWNW/hls/live/playlist.m3u8
@@ -2823,7 +2823,7 @@ https://samuelgoldwyn-classics-1-us.roku.wurl.tv/playlist.m3u8
 https://5c59fd5680a05.streamlock.net/live/_definst_/ngrp:SANKHYATV.stream_all/playlist.m3u8
 #EXTINF:-1 group-title="英文 / 其他地区 / 其他", Sansad TV (1080p) [Not 24/7]
 https://hls.media.nic.in/hls/live/lstv/lstv.m3u8
-#EXTINF:-1 group-title="英文 / 其他地区 / 教育", Santa Maria Community Television Education Channel (720p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", Santa Maria Community Television Education Channel (720p)
 https://livestream.telvue.com/santamariactv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 group-title="英文 / 其他地区 / 其他", Santa Maria Community Television Government Channel (720p)
 https://livestream.telvue.com/santamariactv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
@@ -2855,7 +2855,7 @@ https://reflect-bayarea.cablecast.tv/live-5/live/live.m3u8
 https://reflect-bayarea.cablecast.tv/live-6/live/live.m3u8
 #EXTINF:-1 group-title="英文 / 其他地区 / 其他", Shades of Black
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63920159db0dea0007dd9932/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c0251-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=93b44734-079b-4fec-a58c-6406103089cd
-#EXTINF:-1 group-title="英文 / 其他地区 / 体育", Sharjah Sports TV (1080p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", Sharjah Sports TV (1080p)
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 #EXTINF:-1 group-title="英文 / 其他地区 / 其他", Sheffield Live TV (360p) [Not 24/7]
 http://tv.sheffieldlive.org/hls/main.m3u8
@@ -2893,7 +2893,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/605e479d5b8229000763e697/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bb095-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e52ea0d7-7d74-4383-8afa-27a135057740
 #EXTINF:-1 group-title="英文 / 其他地区 / 其他", Sony Pix (720p)
 https://tv.bdixtv24.com/toffee/live.php?id=ea02096b0fbc&e=.m3u8
-#EXTINF:-1 group-title="英文 / 其他地区 / 教育", Sound View Community Media Education (480p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", Sound View Community Media Education (480p)
 https://livestream.telvue.com/soundviewcmt2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 group-title="英文 / 其他地区 / 其他", Soweto TV (576p)
 https://cdn.freevisiontv.co.za/sttv/smil:soweto.stream.smil/playlist.m3u8
@@ -2907,25 +2907,25 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/58
 https://tv.tuhlprintltd.com/hls/stream.m3u8
 #EXTINF:-1 group-title="英文 / 其他地区 / 其他", Spirit TV (720p) [Not 24/7]
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
-#EXTINF:-1 group-title="英文 / 其他地区 / 体育", SportsGrid (1080p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", SportsGrid (1080p)
 https://sportsgrid-tribal.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="英文 / 其他地区 / 体育", Sportsman Channel
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", Sportsman Channel
 https://fl3.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="英文 / 其他地区 / 体育", SportsNet New York (540p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", SportsNet New York (540p)
 https://fl3.moveonjoy.com/SNY/index.m3u8
 #EXTINF:-1 group-title="英文 / 其他地区 / 其他", St. Pete TV (SPTV) (St Petersburg FL) (360p)
 https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/stpete/G0187_003/playlist.m3u8
 #EXTINF:-1 group-title="英文 / 其他地区 / 其他", Stand-Up TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5637d31f319573e26b64040b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bd7a0-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=33a4d320-29a2-4c88-9bcb-84a407b88251
-#EXTINF:-1 group-title="英文 / 印度 / 娱乐", Star 101 FM (KNUT Guam) [Not 24/7]
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", Star 101 FM (KNUT Guam) [Not 24/7]
 https://live2.tensila.com/knut-v-1.choice/hls/master.m3u8
-#EXTINF:-1 group-title="英文 / 印度 / 娱乐", Star Sports 1 HD [Geo-blocked]
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", Star Sports 1 HD [Geo-blocked]
 http://41.205.93.154/STARSPORTS1/index.m3u8
-#EXTINF:-1 group-title="英文 / 印度 / 娱乐", Start TV
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", Start TV
 https://fl3.moveonjoy.com/Start_Tv/index.m3u8
-#EXTINF:-1 group-title="英文 / 印度 / 娱乐", Starz East
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", Starz East
 https://fl3.moveonjoy.com/STARZ/index.m3u8
-#EXTINF:-1 group-title="英文 / 印度 / 娱乐", Starz West
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", Starz West
 https://fl3.moveonjoy.com/STARZ_WEST/index.m3u8
 #EXTINF:-1 group-title="英文 / 其他地区 / 其他", Stingray Classic Rock (1080p)
 https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
@@ -3003,7 +3003,7 @@ https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamUS.smil/playlist.m3u8
 https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamAU.smil/playlist.m3u8
 #EXTINF:-1 group-title="英文 / 其他地区 / 其他", Swamiji TV European (1080p) [Not 24/7]
 https://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8
-#EXTINF:-1 group-title="英文 / 其他地区 / 体育", Swerve Sports (1080p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", Swerve Sports (1080p)
 https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="英文 / 其他地区 / 其他", SXM TV Broadcast (720p)
 https://5dcabf026b188.streamlock.net/Theodore/livestream/playlist.m3u8
@@ -3187,11 +3187,11 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d0c16d686454ead733d08f8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c73e9-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3441abd1-12dc-4351-b79d-3b4eb58dc339
 #EXTINF:-1 group-title="英文 / 其他地区 / 其他", Trace Hits (1080p)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-uk/encrypted.m3u8
-#EXTINF:-1 group-title="英文 / 印度 / 娱乐", Trace Sport Stars (Australia) (1080p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", Trace Sport Stars (Australia) (1080p)
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="英文 / 其他地区 / 其他", Trace Urban (Australia) (1080p)
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="英文 / 其他地区 / 教育", Tracy Education and Governmental Access Channel (Tracy CA) (720p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", Tracy Education and Governmental Access Channel (Tracy CA) (720p)
 https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/tracy-ca/G0950_002/playlist.m3u8
 #EXTINF:-1 group-title="英文 / 其他地区 / 其他", Travel Adventures with Jeff Swan (1080p)
 https://app.viloud.tv/hls/channel/0d984388834adac967a4ec4e69bc8271.m3u8
@@ -3249,13 +3249,13 @@ https://fl3.moveonjoy.com/TV_ONE/index.m3u8
 http://tvpanoucom.srfms.com:1935/tvpanoucom/livestream/playlist.m3u8
 #EXTINF:-1 group-title="英文 / 其他地区 / 其他", TVCARiB (720p) [Not 24/7]
 https://cdn.mycloudstream.io/hls/live/broadcast/s6nitpvn/index.m3u8
-#EXTINF:-1 group-title="英文 / 其他地区 / 电影", TVCARiB Cinema (720p) [Not 24/7]
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", TVCARiB Cinema (720p) [Not 24/7]
 https://cdn.mycloudstream.io/hls/live/broadcast/l3vslw4i/index.m3u8
 #EXTINF:-1 group-title="英文 / 其他地区 / 其他", TVCARiB Gospel (480p) [Not 24/7]
 https://cdn.mycloudstream.io/hls/live/broadcast/wokrhjkd/index.m3u8
 #EXTINF:-1 group-title="英文 / 其他地区 / 儿童", TVCARiB Kids & Teens (720p) [Not 24/7]
 https://cdn.mycloudstream.io/hls/live/broadcast/nro19k2h/index.m3u8
-#EXTINF:-1 group-title="英文 / 印尼 / 宗教", TVRI World
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", TVRI World
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 #EXTINF:-1 group-title="英文 / 其他地区 / 其他", TVSConsumerDirect
 https://rpn.bozztv.com/gusa/gusa-ConsumerDirect/index.m3u8
@@ -3333,11 +3333,11 @@ https://playhls.media.nic.in/hls/live/vyas/vyas.m3u8
 https://2-fss-2.streamhoster.com/pl_118/amlst:204972-1949480/playlist.m3u8
 #EXTINF:-1 group-title="英文 / 其他地区 / 新闻", W14DK-D 14.2 NEWSNET
 https://2-fss-2.streamhoster.com/pl_118/204972-1954106-1/playlist.m3u8
-#EXTINF:-1 group-title="英文 / 其他地区 / 体育", W14DK-D 14.5 All Sports Television Network
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", W14DK-D 14.5 All Sports Television Network
 https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8
 #EXTINF:-1 group-title="英文 / 其他地区 / 其他", W Network (720p)
 https://fl3.moveonjoy.com/W_NETWORK/index.m3u8
-#EXTINF:-1 group-title="英文 / 澳大利亚 / 其他", WABC-DT1 (720p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", WABC-DT1 (720p)
 https://tvpass.org/live/WABCDT1/hd
 #EXTINF:-1 group-title="英文 / 其他地区 / 其他", Waffi TV (240p)
 https://oqgdro3xd4rm-hls-live.5centscdn.com/waffiitvstreaminglivetfmediacast/e0885d428bea69e372309657f3bd895f.sdp/playlist.m3u8
@@ -3435,7 +3435,7 @@ https://dvrfl03.bozztv.com/hondu-cbsorlando/index.m3u8
 https://dvrfl03.bozztv.com/hondu/hondu-pbs-kids/index.m3u8
 #EXTINF:-1 group-title="英文 / 其他地区 / 其他", WLNG Radio (410p) [Not 24/7]
 http://wlngstudiowebcam.srfms.com:1935/wlngstudiowebcam/livestream/playlist.m3u8
-#EXTINF:-1 group-title="英文 / 澳大利亚 / 新闻", WLS ABC 7 News (Chicago IL) (720p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 新闻", WLS ABC 7 News (Chicago IL) (720p)
 https://content.uplynk.com/channel/ext/aac37e2c66614e699fb189ab391084ff/wls_24x7_news.m3u8
 #EXTINF:-1 group-title="英文 / 其他地区 / 其他", WLVT-DT1
 https://dvrfl03.bozztv.com/hondu/hondu-gbp-pbs/index.m3u8
@@ -3451,9 +3451,9 @@ https://tvpass.org/live/TelemundoEast/hd
 https://fl1.moveonjoy.com/FOX_EAST/index.m3u8
 #EXTINF:-1 group-title="英文 / 其他地区 / 其他", Wolcott Governmental TV (Wolcott CT) (720p)
 https://5a5c57d042315.streamlock.net/live11704001/ngrp:government_all/playlist.m3u8
-#EXTINF:-1 group-title="英文 / 澳大利亚 / 其他", WOLO-DT1 ABC 25 (Columbia SC) (720p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", WOLO-DT1 ABC 25 (Columbia SC) (720p)
 http://143.244.60.30/ABC_EAST/index.m3u8
-#EXTINF:-1 group-title="英文 / 其他地区 / 体育", Women's Sports Network (720p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", Women's Sports Network (720p)
 https://apollo.production-public.tubi.io/live/ac-fast-studios-womens-sports.m3u8
 #EXTINF:-1 group-title="英文 / 其他地区 / 其他", Wonder (720p)
 https://lds-wonder-samsungau.amagi.tv/playlist.m3u8
@@ -3465,7 +3465,7 @@ https://world.lls.pbs.org/index.m3u8
 http://212.102.60.231/WORLD_FISHING_NETWORK/index.m3u8
 #EXTINF:-1 group-title="英文 / 其他地区 / 其他", World Harvest TV (360p)
 https://597865f6e4114.streamlock.net/live/leseaorigin.stream/playlist.m3u8
-#EXTINF:-1 group-title="英文 / 其他地区 / 体育", World of Freesports (1080p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", World of Freesports (1080p)
 https://rakutenaa-mainstreammediafreesportsintl-rakuten-t7dc0.amagi.tv/playlist/rakutenAA-mainstreammediafreesportsintl-rakuten/playlist.m3u8
 #EXTINF:-1 group-title="英文 / 其他地区 / 其他", World Poker Tour (1080p)
 https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/15d59f2f-80da-4448-9bce-775cc9f470f7/1.m3u8
@@ -3473,7 +3473,7 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83da
 https://2-fss-2.streamhoster.com/pl_120/amlst:203530-1426406/playlist.m3u8
 #EXTINF:-1 group-title="英文 / 其他地区 / 新闻", WPTV News West Palm Beach FL (720p)
 https://content.uplynk.com/channel/b02350ef854c4eef8358eead1f59a5cc.m3u8
-#EXTINF:-1 group-title="英文 / 澳大利亚 / 新闻", WPVI ABC 6 News (Philadelphia PA) (720p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 新闻", WPVI ABC 6 News (Philadelphia PA) (720p)
 https://content.uplynk.com/channel/ext/10b98e7c615f43a98b180d51797e74aa/wpvi_24x7_news.m3u8
 #EXTINF:-1 group-title="英文 / 其他地区 / 其他", WPXI-DT1 (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wpxibreaking-ono/playlist.m3u8
@@ -3483,7 +3483,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wsbbreakingnews
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wsocbreaking-ono/playlist.m3u8
 #EXTINF:-1 group-title="英文 / 其他地区 / 其他", WTMO-CD1
 https://dvrfl03.bozztv.com/hondu-telexitos/index.m3u8
-#EXTINF:-1 group-title="英文 / 澳大利亚 / 新闻", WTVD ABC 11 News (Raleigh-Durham NC) (720p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 新闻", WTVD ABC 11 News (Raleigh-Durham NC) (720p)
 https://content.uplynk.com/channel/ext/f05837c508c44712aa7129d531f7dbe6/wtvd_24x7_news.m3u8
 #EXTINF:-1 group-title="英文 / 其他地区 / 其他", WUPA-DT1
 https://dvrfl03.bozztv.com/hondu/hondu-ovair1-cwhd/index.m3u8
@@ -3521,7 +3521,7 @@ https://livestream.telvue.com/yumaaz2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playl
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883098
 #EXTINF:-1 group-title="英文 / 其他地区 / 其他", Zainabia Channel
 https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8
-#EXTINF:-1 group-title="英文 / 印度 / 其他", Zee One (720p)
+#EXTINF:-1 group-title="英文 / 其他地区 / 其他", Zee One (720p)
 https://89ec2d15e090480bb419d940b8793b9c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_ZeeWorld-1/playlist.m3u8
 #EXTINF:-1 group-title="英文 / 其他地区 / 其他", ZIZ TV (720p)
 https://media.slactech.com:1936/ZIZDirect/ZIZDirect/playlist.m3u8
