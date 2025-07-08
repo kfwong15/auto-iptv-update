@@ -1,7 +1,6 @@
 import os 
 import re 
-from channel_dict 
-import CHANNEL_OVERRIDES, region_map, type_map, language_from_filename
+from channel_dict import CHANNEL_OVERRIDES, region_map, type_map, language_from_filename
 
 def match_category(name, mapping, default='其他'): for key in mapping: if key.lower() in name.lower(): return mapping[key] return default
 
