@@ -9,21 +9,25 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
 
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: 3.x
+          python-version: '3.x'
 
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: |
+          pip install -r requirements.txt
 
       - name: Download IPTV List
-        run: python iptv_downloader.py
+        run: |
+          python iptv_downloader.py
 
       - name: Check and Classify Streams
-        run: python iptv_checker.py
+        run: |
+          python iptv_checker.py
 
       - name: Commit results
         run: |
