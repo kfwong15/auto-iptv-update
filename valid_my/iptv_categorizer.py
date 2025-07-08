@@ -1,4 +1,5 @@
-import os import re
+import os 
+import re
 
 def match_category(name, mapping, default='其他'): for key in mapping: if key.lower() in name.lower(): return mapping[key] return default
 
