@@ -1,0 +1,27 @@
+#📂 路径：.github/workflows/auto.yml
+
+name: Auto Merge IPTV
+
+on: push: paths: - 'valid_my/**' schedule: - cron: '0 2 * * *'  # 每天 UTC+0 的 2:00（马来西亚时间上午10点）
+
+jobs: merge: runs-on: ubuntu-latest
+
+steps:
+- name: Checkout
+  uses: actions/checkout@v3
+
+- name: Set up Python
+  uses: actions/setup-python@v4
+  with:
+    python-version: '3.10'
+
+- name: Run categorizer
+  run: python valid_my/iptv_categorizer.py
+
+- name: Commit & Push
+  run: |
+    git config --global user.name "github-actions"
+    git config --global user.email "github-actions@users.noreply.github.com"
+    git add valid_my/iptv_all.m3u
+    git diff --cached --quiet || git commit -m "Auto: Update iptv_all.m3u"
+    git push
