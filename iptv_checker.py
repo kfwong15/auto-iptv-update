@@ -2,86 +2,48 @@
 
 import os
 import requests
-import subprocess
 from tqdm import tqdm
 
-INPUT_FILE = "iptv_all.m3u"
+INPUT_DIR = "downloaded_lists"
 OUTPUT_DIR = "valid_my"
 
-def check_http_ok(url):
+HEADERS = {
+    "User-Agent": "Mozilla/5.0"
+}
+
+def is_stream_alive(url):
     try:
-        r = requests.get(url, timeout=5)
+        r = requests.get(url, headers=HEADERS, timeout=5, stream=True)
         return r.status_code == 200
-    except:
+    except Exception:
         return False
 
-def check_ffmpeg_playable(url):
-    try:
-        result = subprocess.run(
-            ["ffmpeg", "-loglevel", "error", "-i", url, "-t", "3", "-f", "null", "-"],
-            stdout=subprocess.PIPE,
-            stderr=subprocess.PIPE,
-            timeout=10
-        )
-        return b"frame=" in result.stderr or b"Video" in result.stderr
-    except:
-        return False
-
-def classify(name_line):
-    lang, region = "未知语言", "未知地区"
-    if "tvg-language=" in name_line:
-        if "zh" in name_line:
-            lang = "中文"
-        elif "en" in name_line:
-            lang = "英文"
-        elif "id" in name_line:
-            lang = "印尼语"
-        elif "hi" in name_line:
-            lang = "印地语"
-    if "tvg-country=" in name_line:
-        if "CN" in name_line:
-            region = "中国大陆"
-        elif "HK" in name_line:
-            region = "香港"
-        elif "TW" in name_line:
-            region = "台湾"
-        elif "MY" in name_line:
-            region = "马来西亚"
-        elif "ID" in name_line:
-            region = "印尼"
-        elif "IN" in name_line:
-            region = "印度"
-        elif "SG" in name_line:
-            region = "新加坡"
-        elif "US" in name_line:
-            region = "美国"
-        elif "GB" in name_line:
-            region = "英国"
-    return lang, region
-
-def save_stream(lang, region, name, url):
-    folder = os.path.join(OUTPUT_DIR, lang, region)
-    os.makedirs(folder, exist_ok=True)
-    path = os.path.join(folder, "channels.m3u")
-    with open(path, "a", encoding="utf-8") as f:
-        f.write(name + "\n" + url + "\n")
-
-def process_all():
-    with open(INPUT_FILE, "r", encoding="utf-8") as f:
+def filter_valid_streams(input_file, output_file):
+    valid_lines = []
+    with open(input_file, "r", encoding="utf-8") as f:
         lines = f.readlines()
 
-    total = 0
-    for i in tqdm(range(len(lines))):
-        if lines[i].startswith("#EXTINF"):
-            name = lines[i].strip()
-            url = lines[i+1].strip() if i+1 < len(lines) else ""
-            if url.startswith("http"):
-                if check_http_ok(url):
-                    if check_ffmpeg_playable(url):
-                        lang, region = classify(name)
-                        save_stream(lang, region, name, url)
-                        total += 1
-    print(f"[✓] 完成，保存 {total} 个可播放频道")
+    for i in tqdm(range(0, len(lines))):
+        line = lines[i].strip()
+        if line.startswith("http"):
+            extinf = lines[i - 1].strip() if i > 0 else "#EXTINF:-1"
+            if is_stream_alive(line):
+                valid_lines.append(extinf + "\n" + line + "\n")
+
+    if valid_lines:
+        with open(output_file, "w", encoding="utf-8") as f:
+            f.write("#EXTM3U\n")
+            for entry in valid_lines:
+                f.write(entry)
+        print(f"[✓] 保存 {len(valid_lines)} 个可播放频道 -> {output_file}")
+    else:
+        print(f"[✘] 无有效频道 -> {output_file} 未创建")
 
 if __name__ == "__main__":
-    process_all()
+    os.makedirs(OUTPUT_DIR, exist_ok=True)
+    for file in os.listdir(INPUT_DIR):
+        if file.endswith(".m3u"):
+            lang = file.replace(".m3u", "")
+            input_path = os.path.join(INPUT_DIR, file)
+            output_path = os.path.join(OUTPUT_DIR, f"{lang}_valid.m3u")
+            filter_valid_streams(input_path, output_path)
