@@ -9,6 +9,7 @@ LANG_URLS = {
     "英文": "https://iptv-org.github.io/iptv/languages/eng.m3u",
     "印尼语": "https://iptv-org.github.io/iptv/languages/ind.m3u",
     "印地语": "https://iptv-org.github.io/iptv/languages/hin.m3u",
+    "@str@1": "https://raw.githubusercontent.com/Broadcasthub/1ptv/refs/heads/main/bhiptv",
 }
 
 OUTPUT_DIR = "downloaded_lists"
