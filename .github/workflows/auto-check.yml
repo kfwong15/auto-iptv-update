@@ -3,7 +3,7 @@ name: Check IPTV Valid Streams
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 3 * * *'  # 每天凌晨 11AM MYT 执行
+    - cron: '0 3 * * *'  # 每天凌晨 3:00 UTC（11AM MYT）执行
 
 jobs:
   build:
@@ -19,19 +19,18 @@ jobs:
           python-version: '3.x'
 
       - name: Install dependencies
-        run: |
-          pip install -r requirements.txt
+        run: pip install -r requirements.txt
 
       - name: Download IPTV List
-        run: |
-          python iptv_downloader.py
+        run: python iptv_downloader.py
 
       - name: Check and Classify Streams
-        run: |
-          python iptv_checker.py
+        run: python iptv_checker.py
 
       - name: Commit results
         run: |
+          # 开启严格模式
+          set -eux
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@users.noreply.github.com"
           git add .
@@ -40,3 +39,4 @@ jobs:
             git push
           else
             echo "✅ No changes to commit"
+          fi
