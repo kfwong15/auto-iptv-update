@@ -41,6 +41,8 @@ https://get.perfecttv.net/1080.mpd?channel=badmintonfhd&username=vip_3klp0es8&pa
 https://smart.pendy.dpdns.org/Smart.php?id=go_badminton1
 #EXTVLCOPT:http-user-agent=xieanqishiwoerzi/0.0.1
 https://smart.pendy.dpdns.org/Smart.php?id=Bolaarena1
+#EXTVLCOPT:http-user-agent=xieanqishiwoerzi/0.0.1
+https://smart.pendy.dpdns.org/Smart.php?id=Bolaarena2
 ;https://d2p372oxiwmcn1.cloudfront.net/hls/360p/playlist.m3u8
 https://stream1.freetv.fun/24e99af7e3e9753bbc64762d8f053431ce3fcac222f9cbf8302423777049c3dd.ctv
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
@@ -51,8 +53,6 @@ https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
 https://atemeshield1-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
 #EXTVLCOPT:http-user-agent=xieanqishiwoerzi/0.0.1
 https://smart.pendy.dpdns.org/beesport-2025-proxy.php?id=Eurosport_2_Live_TV
-#EXTVLCOPT:http-user-agent=xieanqishiwoerzi/0.0.1
-https://smart.pendy.dpdns.org/beesport-2025-proxy.php?id=SuperSport_Cricket_Live_TV
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd?id=1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
@@ -97,6 +97,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 https://cvnewitvlive-cdn.skyiptv.eu.org/stream/smtmynsg/aec/fmp4_video.m3u8?u=cvappuser&p=0f573e68e00dff8dca0ea6fb2e78c1b9b490a64e8d103112965404558fc00aa8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://streaming.indihometv.com/atm/DASH/jtv/manifest.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
@@ -151,6 +153,8 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 https://smart.pendy.dpdns.org/Smart.php?id=Ria-0
 #EXTINF:-1 tvg-id="AstroRia" group-title="Brunei" ch-number="104" group-logo="https://i.ibb.co/qbxWw4J/bh.jpg" tvg-logo="https://aqfadtv.xyz/logos/Astro Ria (2024).png",RI4 （Backup）
 https://stream1.freetv.fun/d6261677acd2a0ce39cfe66b3d012ba22d27a02f152c04be59ec42356c333416.ctv
+;https://linears2-playback.astro.com.my/vsg/41h4X8SJqTvDRncLzYAJ86jj-O0IbTrrCIctH1_wqloPw=lbh5/dash-wv/jitp-linearwm/1004/default_ott.mpd
+https://stream1.freetv.fun/0f94e719a5bcb5ada67bed3635df172e4648dd6783e1a77cdf49440ca4d07fdb.ctv
 #EXTVLCOPT:http-user-agent=xieanqishiwoerzi/0.0.1
 https://smart.pendy.dpdns.org/Smart.php?id=AAprima1
 #EXTVLCOPT:http-user-agent=xieanqishiwoerzi/0.0.1
@@ -159,6 +163,8 @@ https://smart.pendy.dpdns.org/Smart.php?id=AAcitra1
 https://stream1.freetv.fun/df53d054294bb3499e8c5897908dd1e7a190e2505b2f45abd837a8bc405771fb.ctv
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Moz+1Ry6G/pB8b2iGc7v+A", "kid":"YvrpNekcTo2eg1opTqgZCQ" } ], "type":"temporary" }
 https://atemecdnbalancer-voe.sysln.id/live/eds/DMAXHD/mpd/DMAXHD.mpd
+#EXTINF:-1 group-title="Movies" tvg-id="meWATCHLIVE1.sg" tvg-logo="https://i.ibb.co/B4xvBb8/600px-Douyu-TV-logo.png",Douyu TV Movies
+https://hlsa-akm.douyucdn.cn/live/20415rnWbjg6Ex1K_900/playlist.m3u8?wsAuth=014b39c4437d974e4d70045eb2d23e67&token=web-h5-0-20415-b6774b3b3249db179435e1a37410043c7827528d80fff5fe&logo=0&expire=0&did=c2d6f221fb67b0e8f4e820a300001601&ver=Douyu_221090605&pt=2&st=0&origin=tct&mix=0&isp=
 #EXTINF:-1 tvg-logo="https://planetdish.com/wp-content/uploads/2017/09/PixL-on-DISH.png" group-title="Movies", Pixl TV Movie Channel
 https://frndlymsl.akamaized.net/hls/live/2006426/pixlmsl/pixlmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
 #EXTINF:-1 tvg-id="58e55b14ad8e9c364d55f717" tvg-logo="https://images.pluto.tv/channels/58e55b14ad8e9c364d55f717/colorLogoPNG.png" group-title="Movies",Flicks of Fury
